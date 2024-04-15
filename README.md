@@ -1,2 +1,4 @@
 # Grokking-Algo
-- Use ts-node {fileName} to run files
+Documenting my learnings as I read through the Grokking Algorithms book
+## Running Algorithms
+- Use ts-node `{fileName}` to run the files
